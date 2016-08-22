@@ -23,7 +23,7 @@ Before using this script you must have python installed and bower on your comput
 <code>python ProjectTemplate.py </code>
 </pre>
 
-<p>Now you can start building your app as well, Thanks you try my script</p>
+<p>Now you can start building your app as well, Thanks you to try my script</p>
 
 Contact: +224 628 181 298
 Email: zakuijules@gmail.com
