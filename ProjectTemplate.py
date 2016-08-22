@@ -33,7 +33,7 @@ def jumbotron_content():
             with tag('p'):
                 text(texte)
             with tag('p'):
-                with tag('a', klass="btn btn-lg btn-success",role="button",href="#"):
+                with tag('a', klass="btn btn-lg btn-success",role="button",href="https://github.com/Zakui/WebAppGeneratorScript"):
                     text('Use it')
 
 
