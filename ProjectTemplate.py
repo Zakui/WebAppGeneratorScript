@@ -34,7 +34,7 @@ def jumbotron_content():
                 text(texte)
             with tag('p'):
                 with tag('a', klass="btn btn-lg btn-success",role="button",href="#"):
-                    text('Join us')
+                    text('Use it')
 
 
 
