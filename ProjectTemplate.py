@@ -60,7 +60,7 @@ with tag('html'):
         with tag('script', type="text/javascript",src="bower_components/bootstrap/dist/js/bootstrap.min.js"):
             text('')
 result = indent(doc.getvalue())
-print result
+print "creating your project structure ..."
 
 
 #creating css directory and css file
