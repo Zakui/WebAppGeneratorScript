@@ -70,6 +70,7 @@ except Exception as e:
     pass
 os.chdir(os.getcwd()+"\css")
 custom_css=open('style.css','wb')
+custom_css.write("/* You can put here your custom css style */")
 #go back in myProject folder
 os.chdir('..')
 
@@ -79,7 +80,8 @@ try:
 except Exception as e:
     pass
 os.chdir(os.getcwd()+"\js")
-custom_js=open('main.css','wb')
+custom_js=open('main.js','wb')
+custom_js.write("/* You can put here your custom javascript line */")
 #go back in myProject folder
 os.chdir('..')
 
