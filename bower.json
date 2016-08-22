@@ -1,0 +1,20 @@
+{
+  "name": "Exo Python",
+  "authors": [
+    "Jules Thea <zakuijules@live.fr>"
+  ],
+  "description": "App generator script",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
