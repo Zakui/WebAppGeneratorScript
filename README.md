@@ -26,4 +26,4 @@ Before using this script you must have python installed and bower on your comput
 <p>Now you can start building your app as well, Thanks you try my script</p>
 
 Contact: +224 628 181 298
-Email: zakuijules@gmail.com 
+Email: zakuijules@gmail.com
