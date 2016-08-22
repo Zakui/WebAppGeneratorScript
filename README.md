@@ -1,17 +1,25 @@
 This is a script using to generate a web app project structure, Its includes bootstrap , jquery and angular ready to Use
 
 <h1>Installation</h1>
-Before using this script you must have python installed and bower on your computer and execute these command
+Before using this script make sure you have <a href="https://www.python.org/" alt="Python offial site">Python</a> installed and <a href="https://bower.io/" alt="Bower offial site">Bower</a> on your computer and execute these command
 
 
-<h2>Execute this command to install Python yattag module</h2>
+-First create your project folder
+
+<h3>1 - Clane this project </h3>
+<pre>
+<code>git clone https://github.com/Zakui/WebAppGeneratorScript.git </code>
+</pre>
+
+copy WebAppGeneratorScript content inside your project folder
+
+
+<h3>2 - Execute this command to install Python yattag module</h3>
 <pre>
 <code>pip Install yattag</code>
 </pre>
 
-- create your project folder inside it execute bower command
-
-<h2>Execute this command to install bower devDependencies modules</h2>
+<h3>3 - Execute this command to install bower devDependencies modules</h3>
 <pre>
 <code>bower Install </code>
 </pre>
